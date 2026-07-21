@@ -50,12 +50,6 @@ Supported examples include:
 - Claude
 - MCP-compatible AI hosts
 
-## Human-in-the-Loop
-
-AI agents propose actions.
-
-Engineers review, modify, approve, and execute them. Nothing happens without engineering oversight.
-
 ---
 
 ## Getting Started
