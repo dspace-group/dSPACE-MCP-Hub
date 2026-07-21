@@ -111,7 +111,7 @@ Together, we are building the foundation for the next generation of AI-assisted 
 
 ---
 
-**dSPACE Agentic Hub**
+**dSPACE MCP Hub**
 
 *Connect engineers, tools, knowledge, and AI agents into a single engineering workflow.*
 
