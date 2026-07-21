@@ -1,5 +1,5 @@
 # dSPACE MCP Hub
----
+
 **The MCP Hub for Agentic, Specification-Driven Engineering Workflows**
 
 The **dSPACE MCP Hub** provides a unified collection of MCP servers that connect AI assistants directly to the dSPACE toolchain.
