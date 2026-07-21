@@ -24,6 +24,8 @@ Although these activities are connected logically, they are often disconnected o
 
 The dSPACE MCP Hub enables AI agents to initiate workflows. These are supported from any MCP-compatible AI host. Workflows across various system architectures enabling virtual validation through configuration, measurement and calibration. Engineers-in-loop ensures responsible executing of every action with active review and approval.
 
+---
+
 ## MCP Servers
 
 The Agentic Hub includes MCP servers for core dSPACE products. 
@@ -35,8 +37,9 @@ The Agentic Hub includes MCP servers for core dSPACE products.
 | **ConfigurationDesk & Bus Manager MCP** | [https://github.com/dspace-group/ConfigurationDeskBusManagerMCP](https://github.com/dspace-group/ConfigurationDeskBusManagerMCP)  |
 | **SystemDesk MCP** | [https://github.com/dspace-group/SystemDeskMCP](https://github.com/dspace-group/SystemDeskMCP) |
 
+---
 
-### Model Agnostic
+## Model Agnostic
 
 The MCP servers work with any coding agent or AI host that supports local MCP over `stdio`. Use your preferred AI assistant and LLM provider with the same server configuration.
 
@@ -47,7 +50,7 @@ Supported examples include:
 - Claude
 - MCP-compatible AI hosts
 
-### Human-in-the-Loop
+## Human-in-the-Loop
 
 AI agents propose actions.
 
@@ -89,6 +92,7 @@ In the workspace where you use GitHub Copilot, create or update `.vscode/mcp.jso
   }
 }
 ```
+---
 
 ## Contributing
 
