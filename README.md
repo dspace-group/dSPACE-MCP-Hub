@@ -28,7 +28,7 @@ The dSPACE MCP Hub enables AI agents to initiate workflows. These are supported 
 
 ## MCP Servers
 
-The MCP Hub includes MCP servers for core dSPACE products. 
+The dSPACE MCP Hub includes MCP servers for core dSPACE products. 
 
 | MCP Server | Git Repository Path |
 |------------|-------------|
