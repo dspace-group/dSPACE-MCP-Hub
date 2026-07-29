@@ -28,7 +28,7 @@ The dSPACE MCP Hub enables AI agents to initiate workflows. These are supported 
 
 ## MCP Servers
 
-The dSPACE MCP Hub includes MCP servers for core products. 
+The dSPACE MCP Hub references MCP servers for core products. 
 
 | MCP Server | Git Repository Path |
 |------------|-------------|
@@ -86,19 +86,6 @@ In the workspace where you use GitHub Copilot, create or update `.vscode/mcp.jso
   }
 }
 ```
----
-
-## Contributing
-
-We welcome contributions from engineers, developers, and AI enthusiasts.
-
-You can contribute by:
-
-- Reporting issues
-- Suggesting new MCP capabilities
-- Improving documentation
-- Sharing examples and best practices
-
 ---
 
 ## Community
