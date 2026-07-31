@@ -43,7 +43,7 @@ The dSPACE MCP Hub references MCP servers for core products.
 
 The MCP servers work with any coding agent or AI host that supports local MCP over `stdio`. Use your preferred AI assistant and LLM provider with the same server configuration.
 
-Supported examples include:
+Supported tools include:
 
 - GitHub Copilot
 - ChatGPT
