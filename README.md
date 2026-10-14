@@ -38,6 +38,7 @@ The dSPACE MCP Hub references MCP servers for core products.
 | **SystemDesk MCP** | [https://github.com/dspace-group/SystemDeskMCP](https://github.com/dspace-group/SystemDeskMCP) |
 | **ModelDesk MCP** | [https://github.com/dspace-group/ModelDeskMCP](https://github.com/dspace-group/ModelDeskMCP) |
 | **AURELION Manager MCP** | [https://github.com/dspace-group/AURELIONManagerMCP](https://github.com/dspace-group/AURELIONManagerMCP) |
+| **Test Automation SDK MCP** | [https://github.com/dspace-group/TestAutomationSDKMCP](https://github.com/dspace-group/TestAutomationSDKMCP) |
 
 ---
 
@@ -93,6 +94,10 @@ In the workspace where you use GitHub Copilot, create or update `.vscode/mcp.jso
   "AURELIONManagerMCP": {
    "type": "stdio",
    "command": "<PATH_TO_CLONED_REPOSITORIES>\\AURELIONManagerMCP\\AURELIONManagerMCP.cmd"
+  },
+  "TestAutomationSDKMCP": {
+   "type": "stdio",
+   "command": "<PATH_TO_CLONED_REPOSITORIES>\\TestAutomationSDKMCP\\SDKMCP.cmd"
   }
 }
 ```
