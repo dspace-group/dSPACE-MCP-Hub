@@ -36,6 +36,9 @@ The dSPACE MCP Hub references MCP servers for core products.
 | **VEOS MCP** | [https://github.com/dspace-group/VeosMCP](https://github.com/dspace-group/VeosMCP) |
 | **ConfigurationDesk & Bus Manager MCP** | [https://github.com/dspace-group/ConfigurationDeskBusManagerMCP](https://github.com/dspace-group/ConfigurationDeskBusManagerMCP)  |
 | **SystemDesk MCP** | [https://github.com/dspace-group/SystemDeskMCP](https://github.com/dspace-group/SystemDeskMCP) |
+| **ModelDesk MCP** | [https://github.com/dspace-group/ModelDeskMCP](https://github.com/dspace-group/ModelDeskMCP) |
+| **AURELION Manager MCP** | [https://github.com/dspace-group/AURELIONManagerMCP](https://github.com/dspace-group/AURELIONManagerMCP) |
+| **Test Automation SDK MCP** | [https://github.com/dspace-group/TestAutomationSDKMCP](https://github.com/dspace-group/TestAutomationSDKMCP) |
 
 ---
 
@@ -83,6 +86,18 @@ In the workspace where you use GitHub Copilot, create or update `.vscode/mcp.jso
   "ControlDeskMCP": {
    "type": "stdio",
    "command": "<PATH_TO_CLONED_REPOSITORIES>\\ControlDeskMCP\\ControlDeskMCP.cmd"
+  },
+  "ModelDeskMCP": {
+   "type": "stdio",
+   "command": "<PATH_TO_CLONED_REPOSITORIES>\\ModelDeskMCP\\ModelDeskMCP.cmd"
+  },
+  "AURELIONManagerMCP": {
+   "type": "stdio",
+   "command": "<PATH_TO_CLONED_REPOSITORIES>\\AURELIONManagerMCP\\AURELIONManagerMCP.cmd"
+  },
+  "TestAutomationSDKMCP": {
+   "type": "stdio",
+   "command": "<PATH_TO_CLONED_REPOSITORIES>\\TestAutomationSDKMCP\\SDKMCP.cmd"
   }
 }
 ```
